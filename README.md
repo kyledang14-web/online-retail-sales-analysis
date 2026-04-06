@@ -49,6 +49,6 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 ## 🎯 Business Impact
 
-* Identified seasonal sales patterns to support inventory planning
-* Highlighted customer concentration for retention strategies
-* Revealed top product categories to guide merchandising decisions
+* Identified seasonal sales patterns to support inventory planning and promotional timing  
+* Highlighted customer concentration to inform targeted retention and marketing strategies  
+* Identified top-performing product categories to guide merchandising and product focus  
