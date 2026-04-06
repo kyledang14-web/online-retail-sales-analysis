@@ -2,10 +2,12 @@
 
 ## 📊 Overview
 
-Analyzed 500K+ online retail transactions to uncover sales trends, customer behavior, and product performance using Excel and Tableau.
+**Objective:**  
+Analyze retail transaction data to understand key drivers of revenue and identify customer segments contributing most to overall sales performance.
 
-This project demonstrates an end-to-end data analysis workflow: data cleaning, transformation, exploratory analysis, and dashboard creation.
+This project analyzes 500K+ online retail transactions to uncover sales trends, customer behavior, and product performance using Excel and Tableau.
 
+The analysis includes data cleaning, transformation, exploratory analysis, and dashboard visualization to generate actionable insights.
 ---
 
 ## 🛠 Tools Used
@@ -17,10 +19,18 @@ This project demonstrates an end-to-end data analysis workflow: data cleaning, t
 
 ## 🔍 Key Insights
 
-* Revenue peaks in November and December, indicating strong seasonal demand.
-* The United Kingdom contributes the majority of total revenue, showing market concentration.
-* A small group of customers drives a large portion of revenue.
-* Top-performing products are primarily gift and decorative items.
+* Revenue peaks in November and December, indicating strong seasonal demand patterns  
+* The United Kingdom contributes a majority of total revenue, highlighting geographic concentration  
+* A small group of customers drives a large portion of total revenue, indicating high customer concentration  
+* Top-performing products are primarily gift and decorative items, suggesting consistent demand trends  
+
+---
+
+## 💡 Business Implications
+
+- Seasonal demand patterns can guide inventory planning and promotional strategies  
+- High-value customers can be targeted with retention and marketing efforts  
+- Geographic concentration suggests opportunities for expansion in underperforming regions  
 
 ---
 
