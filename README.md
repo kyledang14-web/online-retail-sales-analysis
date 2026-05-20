@@ -1,4 +1,8 @@
 # Online Retail Sales Analysis
+---
+
+## 📈 Dashboard Preview
+<img width="839" height="622" alt="image" src="https://github.com/user-attachments/assets/cc9a7801-0e3c-41f7-b5aa-05344dbb844d" />
 
 ## 📊 Overview
 
