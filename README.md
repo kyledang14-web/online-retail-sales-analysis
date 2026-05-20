@@ -1,8 +1,12 @@
 # Online Retail Sales Analysis
+
 ---
 
 ## 📈 Dashboard Preview
 <img width="839" height="622" alt="image" src="https://github.com/user-attachments/assets/cc9a7801-0e3c-41f7-b5aa-05344dbb844d" />
+
+
+---
 
 ## 📊 Overview
 
@@ -12,6 +16,7 @@ Analyze retail transaction data to understand key drivers of revenue and identif
 This project analyzes 500K+ online retail transactions to uncover sales trends, customer behavior, and product performance using Excel and Tableau.
 
 The analysis includes data cleaning, transformation, exploratory analysis, and dashboard visualization to generate actionable insights.
+
 ---
 
 ## 🛠 Tools Used
@@ -30,18 +35,6 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 ---
 
-## 💡 Business Implications
-
-- Seasonal demand patterns can guide inventory planning and promotional strategies  
-- High-value customers can be targeted with retention and marketing efforts  
-- Geographic concentration suggests opportunities for expansion in underperforming regions  
-
----
-
-## 📈 Dashboard Preview
-<img width="1131" height="832" alt="dashboard_preview" src="https://github.com/user-attachments/assets/35fdfb3f-66d5-4096-ba9c-5f393e7d08ee" />
-
----
 
 ## 📂 Files Included
 
@@ -53,6 +46,7 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 ## 🎯 Business Impact
 
-* Identified seasonal sales patterns to support inventory planning and promotional timing  
-* Highlighted customer concentration to inform targeted retention and marketing strategies  
-* Identified top-performing product categories to guide merchandising and product focus  
+* Identified seasonal revenue spikes to support inventory and promotional planning during peak demand periods
+* Highlighted customer concentration risk, enabling more targeted retention and loyalty strategies
+* Identified top-performing product categories to guide merchandising and product prioritization decisions
+* Revealed geographic revenue dependence, suggesting opportunities for regional market expansion
