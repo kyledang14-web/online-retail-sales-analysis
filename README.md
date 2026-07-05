@@ -21,7 +21,7 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 ## 🛠 Tools Used
 
-* Excel (data cleaning, feature engineering, pivot tables)
+* Excel (data cleaning, feature engineering, pivot tables, interactive KPI dashboard)
 * Tableau (interactive dashboard and visualization)
 
 ---
@@ -40,6 +40,8 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 * `online_retail_analysis.xlsx` → Data cleaning and pivot analysis
 * `online_retail_dashboard.twbx` → Interactive Tableau dashboard
+* `online_retail_excel_dashboard.xlsx` → Interactive Excel dashboard (KPI cards, daily revenue trend, top products, UK vs international split) — fully formula-driven, built on a 30K-transaction sample
+* `excel_dashboard_preview.pdf` → Excel dashboard preview
 * `dashboard_preview.png` → Dashboard screenshot
 
 ---
