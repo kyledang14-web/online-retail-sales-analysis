@@ -12,6 +12,8 @@
 
 ![Excel dashboard](excel_dashboard_preview.png)
 
+> **Note:** The two dashboards intentionally cover different scopes. The Tableau dashboard analyzes the full dataset (500K+ transactions across two years, including peak holiday season), while the Excel dashboard drills into a single trading window (Jan 4 – Feb 10, 2010, ~30K transactions) with non-product entries such as postage and manual adjustments removed. This is why figures like the top 10 products differ between the two.
+
 ---
 
 ## Overview
