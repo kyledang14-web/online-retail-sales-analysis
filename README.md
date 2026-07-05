@@ -2,15 +2,21 @@
 
 ---
 
-## 📈 Dashboard Preview
-<img width="839" height="622" alt="image" src="https://github.com/user-attachments/assets/cc9a7801-0e3c-41f7-b5aa-05344dbb844d" />
+## Dashboard Previews
 
+**Tableau**
+
+<img width="839" height="622" alt="Tableau dashboard" src="https://github.com/user-attachments/assets/cc9a7801-0e3c-41f7-b5aa-05344dbb844d" />
+
+**Excel**
+
+![Excel dashboard](excel_dashboard_preview.png)
 
 ---
 
-## 📊 Overview
+## Overview
 
-**Objective:**  
+**Objective:**
 Analyze retail transaction data to understand key drivers of revenue and identify customer segments contributing most to overall sales performance.
 
 This project analyzes 500K+ online retail transactions to uncover sales trends, customer behavior, and product performance using Excel and Tableau.
@@ -19,34 +25,33 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Excel (data cleaning, feature engineering, pivot tables, interactive KPI dashboard)
 * Tableau (interactive dashboard and visualization)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-* Revenue peaks in November and December, indicating strong seasonal demand patterns  
-* The United Kingdom contributes a majority of total revenue, highlighting geographic concentration  
-* A small group of customers drives a large portion of total revenue, indicating high customer concentration  
-* Top-performing products are primarily gift and decorative items, suggesting consistent demand trends  
+* Revenue peaks in November and December, indicating strong seasonal demand patterns
+* The United Kingdom contributes a majority of total revenue, highlighting geographic concentration
+* A small group of customers drives a large portion of total revenue, indicating high customer concentration
+* Top-performing products are primarily gift and decorative items, suggesting consistent demand trends
 
 ---
 
-
-## 📂 Files Included
+## Files Included
 
 * `online_retail_analysis.xlsx` → Data cleaning and pivot analysis
 * `online_retail_dashboard.twbx` → Interactive Tableau dashboard
-* `online_retail_excel_dashboard.xlsx` → Interactive Excel dashboard (KPI cards, daily revenue trend, top products, UK vs international split) — fully formula-driven, built on a 30K-transaction sample
-* `excel_dashboard_preview.pdf` → Excel dashboard preview
-* `dashboard_preview.png` → Dashboard screenshot
+* `online_retail_excel_dashboard.xlsx` → Interactive Excel dashboard (KPI cards, daily revenue trend, top products, UK vs international split) — fully formula-driven
+* `excel_dashboard_preview.png` → Excel dashboard screenshot
+* `dashboard_preview.png` → Tableau dashboard screenshot
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 
 * Identified seasonal revenue spikes to support inventory and promotional planning during peak demand periods
 * Highlighted customer concentration risk, enabling more targeted retention and loyalty strategies
