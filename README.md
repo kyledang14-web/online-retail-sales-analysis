@@ -55,7 +55,7 @@ The analysis includes data cleaning, transformation, exploratory analysis, and d
 
 ## Business Impact
 
-* Identified seasonal revenue spikes to support inventory and promotional planning during peak demand periods
-* Highlighted customer concentration risk, enabling more targeted retention and loyalty strategies
-* Identified top-performing product categories to guide merchandising and product prioritization decisions
-* Revealed geographic revenue dependence, suggesting opportunities for regional market expansion
+* Revenue spikes in November and December — useful for planning inventory ahead of the holidays
+* A small group of customers drives most of the revenue, so losing a few of them is a real risk
+* Gift and decorative items are the consistent top sellers
+* Most revenue comes from the UK, so the business is heavily dependent on one market
